@@ -111,7 +111,7 @@ main .textandbutton .text {
   font-size: 18px;
 }
 main .textandbutton .text span {
-  font-size: 45px;
+  font-size: 40px;
 }
 main .textandbutton .text p {
   font-size: 36px;
@@ -339,3 +339,4 @@ footer #final {
     right: 0;
   }
 }
+
